@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ваша собственная настройка стилей */
+body {
+  background-color: rgba(34, 76, 101, 1); /* Темно-синий */
+  color: rgb(138, 145, 149); /* Светло-серый */
+}
